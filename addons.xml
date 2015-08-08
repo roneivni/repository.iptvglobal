@@ -16,15 +16,15 @@
   </extension>
 </addon>
 
-<addon id="repository.iptvglobal" name="IPTV Global repository" version="0.0.2" provider-name="Ronei de Sousa">
+<addon id="repository.iptvglobal" name="IPTV Global Repo" version="0.0.1" provider-name="Ronei de Sousa">
 	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
 		<info compressed="false">http://raw.github.com/IPTVGlobal/repository.iptvglobal/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/IPTVGlobal/repository.iptvglobal/master/addons.xml.md5</checksum>
+		<checksum>http://raw.github.com/IPTVGlobal/repository.iptvglobal/master/addons.xml.md5</checksum>
 		<datadir zip="true">http://raw.github.com/IPTVGlobal/repository.iptvglobal/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>IPTV Global Addon</summary>
-		<description>Addon Description</description>
+		<description>Instalador do Addon IPTV Global</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>

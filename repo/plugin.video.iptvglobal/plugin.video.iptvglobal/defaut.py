@@ -21,12 +21,12 @@ from BeautifulSoup import BeautifulSoup
 h = HTMLParser.HTMLParser()
 
 
-versao = '1.1.9'
-addon_id = 'plugin.video.roggerstream'
+versao = '0.0.1'
+addon_id = 'plugin.video.iptvglobal'
 selfAddon = xbmcaddon.Addon(id=addon_id)
 addonfolder = selfAddon.getAddonInfo('path')
 artfolder = addonfolder + '/resources/img/'
-fanart = addonfolder + '/fanart.png'
+fanart = addonfolder + '/fanart.jpg'
  
 
 ###################################################MENUS############################################
@@ -34,8 +34,8 @@ fanart = addonfolder + '/fanart.png'
 	
 def  menus():        		
 	dialog = xbmcgui.Dialog()
-	dialog.ok("ROGGER STREAM", "          Assistam a vários canais IPTV do Brasil e do mundo !!!")
-	addDir('ROGGER STREAM','-',3,'http://i.imgur.com/y22MB94.jpg')
+	dialog.ok("IPTV Global", "Bem-vindos ao Add-ons do IPTV Global")
+	addDir('IPTV Global','-',3,'https://copy.com/YZnvFT8RgX2JeMqP/icon.png?download=1')
 	
 	
 	
