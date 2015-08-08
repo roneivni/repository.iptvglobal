@@ -41,19 +41,14 @@ def  menus():
 	
 
 def  categorias():
-	addDir('CANAIS ABERTOS DO BRASIL','https://copy.com/Nlyj6xxWlRFKdinh?download=1',6,'https://copy.com/JvvK4Iw39ofK1rPF')
-	addDir('FUTEBOL AO VIVO','https://copy.com/xUo6eMRYOiVevL2h?download=1',6,'https://copy.com/NPRaZORymdG0FxJ1')
-	addDir('TV PAGA BRASIL','-',5,'https://copy.com/VVF8ouCl1Ghkjum8')
-	addDir('STREAMS DO YOUTUBE','https://copy.com/8QZD9AQuv4Lchd2M?download=1',10,'http://i.imgur.com/fKCIAxx.jpg')
-	addDir('SÉRIES E DESENHOS 24 HORAS','https://copy.com/nEagWXhOC1s7dlyO?download=1',6,'https://copy.com/SzKOJlBKxIfEuHnp')
-	addDir('CAÇA E PESCA','https://copy.com/b6uCi8jKTmq24wLy?download=1',6,'https://copy.com/Igk8UorSxdbG4xnE')
-	addDir('CANAIS LATINOS','https://copy.com/tapliy8nIaKSLDQq?download=1',6,'https://copy.com/wPVtPygtxuY0P1xl')
-	addDir('CANAIS DE PORTUGAL','https://copy.com/unoGFK2bL8ZJ0iHD?download=1',6,'https://copy.com/HwP6Xpia6GNQvWsi')
-	addDir('WEBCAMS','https://copy.com/Ywh4MnZQqy2R7M8P?download=1',6,'https://copy.com/dPj2J9AzaExumsnE')
-	addDir('CANAIS HD','https://copy.com/VMoOgU8UDvAgfjv0?download=1',6,'https://copy.com/WB68NrrmvjxdH1pJ')
-	addDir('MÚSICAS E VIDEOCLIPES','https://copy.com/1cvRyOdMSOCSBH70?download=1',6,'https://copy.com/stpjErgehf9hPtwW')
-	addDir('ESPORTES INTERNACIONAIS','https://copy.com/bIIpBHwFbXMXOBBB?download=1',6,'https://copy.com/pUGvpVMDpoY09PcA')
-	addDir('RÁDIOS','https://copy.com/znUclLey0qF30gSd?download=1',6,'https://copy.com/fuDnLrM1Am7VNtmT')
+	addDir('Desenhos 24 horas','https://copy.com/OZV0q6tG9YXcgjxv?download=1',6,'')
+	addDir('Filmes 24 horas','?download=1',6,'')
+	addDir('Filmes HD','https://copy.com/1KQEvyKZMtxz2knj?download=1',6,'')
+	addDir('Series 24 horas','https://copy.com/F7B3CF2i4rov8EhT?download=1',6,'')
+	addDir('American Horror Story','https://copy.com/sha7tDu0A7OfnKvb?download=1',6,'')
+	addDir('As Aventuras de Jackie Chan','https://copy.com/yu0SpLyL9GMSP7Bq?download=1',6,'')
+	addDir('Demolidor','https://copy.com/UjtojmSEZCgpazlW?download=1',6,'')
+	addDir('Godzilla','https://copy.com/PWw3t8lkWjpwpRZB?download=1',6,'')
 	
 	
 
